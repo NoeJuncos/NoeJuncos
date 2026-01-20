@@ -1,11 +1,9 @@
 ## Hi there 👋 soy Noelia Juncos!
 
-Soy QA Engineer con 2 años de experiencia en aseguramiento de calidad, análisis funcional y diseño de estrategias de prueba en equipos ágiles. 
+QA Automation Engineer orientada a la eficiencia operativa mediante la implementación de Inteligencia Artificial en el ciclo de vida del software. 
 
-Soy una persona que está siempre buscando ser mejor y aprender cosas nuevas, caí en la profesión perfecta 😄. He realizado capacitaciones profesionales de QA Manual, QC, Accesibilidad, Automation con Selenium, Automation con Cypress y más. 
+Experiencia en el desarrollo y mantenimiento de scripts de automatización bajo estándares de calidad, utilizando Playwright y Cypress.
 
-Actualmente estoy estudiando Bases de Datos e IA, Aplicaciones Avanzadas de IA en entornos productivos y Codign avanzado para proyectos y negocios 🔭; además, estoy comenzando a incursionar en el mundo de Playwright.  
+Cuento con una mentalidad proactiva enfocada en la Ciberseguridad, lo que me permite asegurar no solo la funcionalidad del producto, sino también su resiliencia. 
 
-🌱 Tengo mentalidad analítica, me gusta mucho trabajar en equipo, soy muy detallista y me destaca mi empatía.
-
-EN BÚSQUEDA ACTIVA DE TRABAJO 
+Experta en optimizar procesos de testing mediante herramientas de IA para maximizar la cobertura y reducir los tiempos de entrega en entornos ágiles.
